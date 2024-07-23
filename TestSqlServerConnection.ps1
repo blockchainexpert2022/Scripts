@@ -1,3 +1,5 @@
+#https://github.com/blockchainexpert2022/Scripts/blob/main/TestSqlServerConnection.ps1
+
 #Data Source=MYSERVER\SQLEXPRESS;Initial Catalog=MYDATABASE;User ID=sa;Password=MYPASSWORD;MultipleActiveResultSets=True
 
 param (
